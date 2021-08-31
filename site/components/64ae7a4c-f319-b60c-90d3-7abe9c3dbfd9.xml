@@ -14,7 +14,6 @@
 	<installments_s>5</installments_s>
 	<price_s>29.45</price_s>
 	<freeShipping_s>true</freeShipping_s>
-	<localeCode>en</localeCode>
 	<description_t/>
 	<sizes_o>	<item>	<key>M</key>
 	<value_smv>M</value_smv>

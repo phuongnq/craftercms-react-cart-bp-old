@@ -14,7 +14,6 @@
 	<installments_s>9</installments_s>
 	<price_s>10.9</price_s>
 	<freeShipping_s>true</freeShipping_s>
-	<localeCode>en</localeCode>
 	<description_t>Black with custom print</description_t>
 	<sizes_o>	<item>	<key>XS</key>
 	<value_smv>XS</value_smv>
