@@ -15,7 +15,7 @@
 	<price_s>10.9</price_s>
 	<freeShipping_s>true</freeShipping_s>
 	<localeCode>en</localeCode>
-	<description_t>4 MSL</description_t>
+	<description_t>Black with custom print</description_t>
 	<sizes_o>	<item>	<key>XS</key>
 	<value_smv>XS</value_smv>
 	</item>	<item>	<key>S</key>
@@ -23,6 +23,7 @@
 	</item></sizes_o>
 	<createdDate>2021-08-31T07:21:07.993Z</createdDate>
 	<createdDate_dt>2021-08-31T07:21:07.993Z</createdDate_dt>
-	<lastModifiedDate>2021-08-31T07:21:07.993Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-08-31T07:21:07.993Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-08-31T07:24:13.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-31T07:24:13.537Z</lastModifiedDate_dt>
+	<style_s>4 MSL</style_s>
 </component>
