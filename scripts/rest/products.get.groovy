@@ -58,3 +58,8 @@ def getPrice(document) {
 	// simple example of abstracting where price comes from
 	return new Float(document.price_s)
 }
+
+def getInventory(document) {
+	// simple example of abstracting where inventory comes from
+	return new Integer(document.installments_s)
+}
