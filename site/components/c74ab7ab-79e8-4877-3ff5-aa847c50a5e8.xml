@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/product</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c74a</objectGroupId>
+	<objectId>c74ab7ab-79e8-4877-3ff5-aa847c50a5e8</objectId>
+	<file-name>c74ab7ab-79e8-4877-3ff5-aa847c50a5e8.xml</file-name>
+	<folder-name/>
+	<internal-name>Cat Tee Black T-Shirt</internal-name>
+	<sKU_s>12064273040195392</sKU_s>
+	<title_s>Cat Tee Black T-Shirt</title_s>
+	<installments_s>9</installments_s>
+	<price_s>10.9</price_s>
+	<freeShipping_s>true</freeShipping_s>
+	<localeCode>en</localeCode>
+	<description_t>4 MSL</description_t>
+	<sizes_o>	<item>	<key>XS</key>
+	<value_smv>XS</value_smv>
+	</item>	<item>	<key>S</key>
+	<value_smv>S</value_smv>
+	</item></sizes_o>
+	<createdDate>2021-08-31T07:21:07.993Z</createdDate>
+	<createdDate_dt>2021-08-31T07:21:07.993Z</createdDate_dt>
+	<lastModifiedDate>2021-08-31T07:21:07.993Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-31T07:21:07.993Z</lastModifiedDate_dt>
+</component>
