@@ -519,7 +519,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>productImages</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -567,7 +567,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>productImages</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
