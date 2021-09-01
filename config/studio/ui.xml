@@ -41,6 +41,15 @@
               </widget>
               <widget id="craftercms.components.PathNavigator">
                 <configuration>
+                  <id>Products</id>
+                  <label>Products</label>
+                  <icon id="@material-ui/icons/DescriptionOutlined" />
+                  <rootPath>/site/website</rootPath>
+                  <locale>en</locale>
+                </configuration>
+              </widget>
+              <widget id="craftercms.components.PathNavigator">
+                <configuration>
                   <id>Components</id>
                   <label>Components</label>
                   <icon id="craftercms.icons.Component" />
