@@ -114,6 +114,16 @@
                                         <onClick>preview</onClick>
                                     </params>
                                 </modulehook>
+                                
+                                <modulehook>
+                                  <name>wcm-root-folder</name>
+                                  <params>
+                                    <label>Products</label>
+                                    <path>/site</path>
+                                    <showRootItem>true</showRootItem>
+                                    <onClick>preview</onClick>
+                                   </params>
+                                </modulehook>
 
                                 <!-- Components -->
                                 <modulehook>
