@@ -44,7 +44,7 @@
                   <id>Products</id>
                   <label>Products</label>
                   <icon id="@material-ui/icons/DescriptionOutlined" />
-                  <rootPath>/site/products</rootPath>
+                  <rootPath>/site/components</rootPath>
                   <locale>en</locale>
                 </configuration>
               </widget>
