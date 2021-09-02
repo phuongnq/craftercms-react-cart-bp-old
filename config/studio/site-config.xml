@@ -114,6 +114,7 @@
 
             <pattern-group name="component">
                 <pattern>/site/components/([^&lt;]+)\.xml</pattern>
+                <pattern>/site/products/([^&lt;]+)\.xml</pattern>
                 <pattern>/site/system/page-components/([^&lt;]+)\.xml</pattern>
                 <pattern>/site/component-bindings/([^&lt;]+)\.xml</pattern>
                 <pattern>/site/indexes/([^&lt;]+)\.xml</pattern>
