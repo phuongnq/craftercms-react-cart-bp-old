@@ -43,7 +43,7 @@
                 <configuration>
                   <id>Products</id>
                   <label>Products</label>
-                  <icon id="@material-ui/icons/ShopOutlined" />
+                  <icon id="@material-ui/icons/FormatAlignCenterRounded" />
                   <rootPath>/site/products</rootPath>
                   <locale>en</locale>
                 </configuration>
