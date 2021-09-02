@@ -95,6 +95,7 @@
         -->
         <folders>
             <folder name="Pages" path="/website" read-direct-children="false" attach-root-prefix="true"/>
+            <folder name="Products" path="/products" read-direct-children="false" attach-root-prefix="true"/>
             <folder name="Components" path="/components" read-direct-children="false" attach-root-prefix="true"/>
             <folder name="Assets" path="/static-assets" read-direct-children="false" attach-root-prefix="false"/>
             <folder name="Templates" path="/templates" read-direct-children="false" attach-root-prefix="false"/>
