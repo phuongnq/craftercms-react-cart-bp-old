@@ -26,4 +26,9 @@
     <quickCreatePath></quickCreatePath>
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
+	<paths>
+      <includes>
+        <pattern>^hidden</pattern>
+      </includes>
+    </paths>
 </content-type>
