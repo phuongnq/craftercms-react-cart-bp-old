@@ -114,22 +114,6 @@
                                         <onClick>preview</onClick>
                                     </params>
                                 </modulehook>
-                                
-                                <modulehook>
-                                  <name>wcm-root-folder</name>
-                                  <params>
-                                    <label>Products</label>
-                                    <module-icon-open>
-                                      <class>fa-shopping-bag</class>
-                                    </module-icon-open>
-                                    <module-icon-closed>
-                                      <class>fa-shopping-bag</class>
-                                    </module-icon-closed>
-                                    <path>/site/products</path>
-                                    <showRootItem>true</showRootItem>
-                                    <onClick>preview</onClick>
-                                  </params>
-                                </modulehook>
 
                                 <!-- Components -->
                                 <modulehook>
